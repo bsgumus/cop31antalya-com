@@ -1,3 +1,3 @@
-# cop31antalya.tr
+# cop31antalya.com
 
-cop31antalya.tr adresini aynı sayfa ve parametrelerle https://cop31antalya.com adresine yönlendirir.
+cop31antalya.com adresini aynı sayfa ve parametrelerle cop31antalya.org adresine yönlendirir.
